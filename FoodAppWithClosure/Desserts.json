@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Chocolate Cake",
+    "image": "chocolate_cake",
+    "description": "Rich chocolate cake",
+    "price": 7.99
+  },
+  {
+    "name": "New York Cheesecake",
+    "image": "cheesecake",
+    "description": "Creamy cheesecake",
+    "price": 8.99
+  },
+  {
+    "name": "Apple Pie",
+    "image": "apple_pie",
+    "description": "Classic American apple pie",
+    "price": 6.99
+  },
+  {
+    "name": "Tiramisu",
+    "image": "tiramisu",
+    "description": "Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese",
+    "price": 9.99
+  },
+  {
+    "name": "Lemon Tart",
+    "image": "lemon_tart",
+    "description": "Tart with lemon custard filling",
+    "price": 7.99
+  },
+  {
+    "name": "Red Velvet Cake",
+    "image": "red_velvet_cake",
+    "description": "Moist red velvet cake with cream cheese frosting",
+    "price": 8.99
+  },
+  {
+    "name": "Key Lime Pie",
+    "image": "key_lime_pie",
+    "description": "Tangy key lime pie with graham cracker crust",
+    "price": 7.99
+  },
+  {
+    "name": "Creme Brulee",
+    "image": "creme_brulee",
+    "description": "Rich custard with caramelized sugar topping",
+    "price": 9.99
+  },
+  {
+    "name": "Fruit Tart",
+    "image": "fruit_tart",
+    "description": "Tart with pastry cream and fresh fruit topping",
+    "price": 8.99
+  },
+  {
+    "name": "Pecan Pie",
+    "image": "pecan_pie",
+    "description": "Classic Southern pie with pecan filling",
+    "price": 8.99
+  }
+]

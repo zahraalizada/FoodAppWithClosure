@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Caesar Salad",
+    "image": "caesar_salad",
+    "description": "Fresh romaine lettuce with Caesar dressing",
+    "price": 6.99
+  },
+  {
+    "name": "Greek Salad",
+    "image": "greek_salad",
+    "description": "Mixed greens with feta cheese and olives",
+    "price": 8.99
+  },
+  {
+    "name": "Caprese Salad",
+    "image": "caprese_salad",
+    "description": "Tomatoes, fresh mozzarella, and basil drizzled with balsamic glaze",
+    "price": 7.99
+  },
+  {
+    "name": "Cobb Salad",
+    "image": "cobb_salad",
+    "description": "Salad with chicken, bacon, avocado, eggs, and blue cheese",
+    "price": 9.99
+  },
+  {
+    "name": "Waldorf Salad",
+    "image": "waldorf_salad",
+    "description": "Salad with apples, grapes, walnuts, and celery in a mayonnaise dressing",
+    "price": 8.99
+  },
+  {
+    "name": "Nicoise Salad",
+    "image": "nicoise_salad",
+    "description": "Salad with tuna, green beans, potatoes, eggs, and olives",
+    "price": 10.99
+  },
+  {
+    "name": "Spinach Salad",
+    "image": "spinach_salad",
+    "description": "Salad with fresh spinach, bacon, mushrooms, and hard-boiled eggs",
+    "price": 7.99
+  },
+  {
+    "name": "Quinoa Salad",
+    "image": "quinoa_salad",
+    "description": "Salad with quinoa, cucumber, tomatoes, and feta cheese",
+    "price": 8.99
+  },
+  {
+    "name": "Taco Salad",
+    "image": "taco_salad",
+    "description": "Salad with seasoned ground beef, lettuce, tomatoes, and tortilla chips",
+    "price": 9.99
+  },
+  {
+    "name": "Kale Salad",
+    "image": "kale_salad",
+    "description": "Salad with kale, dried cranberries, almonds, and goat cheese",
+    "price": 8.99
+  }
+]

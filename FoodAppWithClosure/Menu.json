@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Burgers",
+        "image": "burgers"
+    },
+    {
+        "name": "Pizzas",
+        "image": "pizzas"
+    },
+    {
+        "name": "Asia",
+        "image": "asia"
+    },
+    {
+        "name": "Desserts",
+        "image": "desserts"
+    },
+    {
+        "name": "Salads",
+        "image": "salads"
+    },
+    {
+        "name": "Drinks",
+        "image": "drinks"
+    }
+]

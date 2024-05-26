@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sushi Combo",
+    "image": "sushi_combo",
+    "description": "Assorted sushi rolls",
+    "price": 18.99
+  },
+  {
+    "name": "Chicken Teriyaki",
+    "image": "chicken_teriyaki",
+    "description": "Grilled chicken with teriyaki sauce",
+    "price": 16.99
+  },
+  {
+    "name": "Beef Stir-Fry",
+    "image": "beef_stir_fry",
+    "description": "Stir-fried beef with vegetables",
+    "price": 17.99
+  },
+  {
+    "name": "Shrimp Fried Rice",
+    "image": "shrimp_fried_rice",
+    "description": "Fried rice with shrimp and vegetables",
+    "price": 15.99
+  },
+  {
+    "name": "Pad Thai",
+    "image": "pad_thai",
+    "description": "Stir-fried rice noodles with tofu, eggs, and peanuts",
+    "price": 14.99
+  },
+  {
+    "name": "Vegetable Spring Rolls",
+    "image": "vegetable_spring_rolls",
+    "description": "Crispy spring rolls filled with vegetables",
+    "price": 8.99
+  },
+  {
+    "name": "Szechuan Beef",
+    "image": "szechuan_beef",
+    "description": "Spicy beef dish with Szechuan peppers",
+    "price": 17.99
+  },
+  {
+    "name": "Sweet and Sour Chicken",
+    "image": "sweet_and_sour_chicken",
+    "description": "Chicken with sweet and sour sauce",
+    "price": 16.99
+  },
+  {
+    "name": "Miso Soup",
+    "image": "miso_soup",
+    "description": "Japanese soup with tofu, seaweed, and green onions",
+    "price": 4.99
+  },
+  {
+    "name": "Coconut Curry",
+    "image": "coconut_curry",
+    "description": "Curry with vegetables and coconut milk",
+    "price": 15.99
+  }
+]

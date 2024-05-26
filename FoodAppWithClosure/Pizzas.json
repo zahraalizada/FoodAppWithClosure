@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "image": "margherita_pizza",
+    "description": "Classic Italian pizza with tomato sauce and mozzarella cheese",
+    "price": 12.99
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "image": "pepperoni_pizza",
+    "description": "Pizza with pepperoni slices",
+    "price": 14.99
+  },
+  {
+    "name": "Vegetarian Pizza",
+    "image": "vegetarian_pizza",
+    "description": "Pizza topped with assorted vegetables",
+    "price": 13.99
+  },
+  {
+    "name": "Supreme Pizza",
+    "image": "supreme_pizza",
+    "description": "Pizza with pepperoni, sausage, mushrooms, peppers, and onions",
+    "price": 15.99
+  },
+  {
+    "name": "BBQ Chicken Pizza",
+    "image": "bbq_chicken_pizza",
+    "description": "Pizza with barbecue chicken and red onions",
+    "price": 15.99
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "image": "hawaiian_pizza",
+    "description": "Pizza with ham and pineapple",
+    "price": 14.99
+  },
+  {
+    "name": "Buffalo Chicken Pizza",
+    "image": "buffalo_chicken_pizza",
+    "description": "Pizza with buffalo chicken strips and ranch dressing",
+    "price": 16.99
+  },
+  {
+    "name": "Mushroom Pizza",
+    "image": "mushroom_pizza",
+    "description": "Pizza topped with fresh mushrooms",
+    "price": 13.99
+  },
+  {
+    "name": "Meat Lovers Pizza",
+    "image": "meat_lovers_pizza",
+    "description": "Pizza with pepperoni, sausage, bacon, and ham",
+    "price": 16.99
+  },
+  {
+    "name": "White Pizza",
+    "image": "white_pizza",
+    "description": "Pizza with ricotta cheese, mozzarella cheese, and garlic",
+    "price": 13.99
+  }
+]

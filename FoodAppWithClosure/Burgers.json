@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cheeseburger",
+    "image": "cheeseburger",
+    "description": "Classic cheeseburger with cheddar cheese",
+    "price": 9.99
+  },
+  {
+    "name": "Bacon Burger",
+    "image": "bacon_burger",
+    "description": "Burger with crispy bacon strips",
+    "price": 10.99
+  },
+  {
+    "name": "Mushroom Swiss Burger",
+    "image": "mushroom_swiss_burger",
+    "description": "Burger topped with sautéed mushrooms and Swiss cheese",
+    "price": 11.99
+  },
+  {
+    "name": "BBQ Burger",
+    "image": "bbq_burger",
+    "description": "Burger with tangy barbecue sauce",
+    "price": 10.99
+  },
+  {
+    "name": "Veggie Burger",
+    "image": "veggie_burger",
+    "description": "Vegetarian burger patty with lettuce and tomato",
+    "price": 9.99
+  },
+  {
+    "name": "Turkey Burger",
+    "image": "turkey_burger",
+    "description": "Lean turkey burger with cranberry sauce",
+    "price": 10.99
+  },
+  {
+    "name": "Double Cheeseburger",
+    "image": "double_cheeseburger",
+    "description": "Burger with double the cheese slices",
+    "price": 12.99
+  },
+  {
+    "name": "Spicy Jalapeno Burger",
+    "image": "spicy_jalapeno_burger",
+    "description": "Burger with sliced jalapenos and spicy sauce",
+    "price": 11.99
+  },
+  {
+    "name": "Hawaiian Burger",
+    "image": "hawaiian_burger",
+    "description": "Burger with grilled pineapple and teriyaki sauce",
+    "price": 12.99
+  },
+  {
+    "name": "Avocado Bacon Burger",
+    "image": "avocado_bacon_burger",
+    "description": "Burger topped with sliced avocado and crispy bacon",
+    "price": 13.99
+  }
+]

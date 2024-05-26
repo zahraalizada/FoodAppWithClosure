@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Coke",
+    "image": "coke",
+    "description": "Carbonated soft drink",
+    "price": 1.99
+  },
+  {
+    "name": "Orange Juice",
+    "image": "orange_juice",
+    "description": "Freshly squeezed orange juice",
+    "price": 3.99
+  },
+  {
+    "name": "Iced Tea",
+    "image": "iced_tea",
+    "description": "Chilled tea served over ice",
+    "price": 2.99
+  },
+  {
+    "name": "Lemonade",
+    "image": "lemonade",
+    "description": "Refreshing lemon-flavored drink",
+    "price": 2.99
+  },
+  {
+    "name": "Mango Smoothie",
+    "image": "mango_smoothie",
+    "description": "Smoothie made with fresh mango and yogurt",
+    "price": 4.99
+  },
+  {
+    "name": "Espresso",
+    "image": "espresso",
+    "description": "Strong coffee served in a small cup",
+    "price": 2.99
+  },
+  {
+    "name": "Cappuccino",
+    "image": "cappuccino",
+    "description": "Coffee with frothed milk and a dusting of cocoa powder",
+    "price": 3.99
+  },
+  {
+    "name": "Green Tea",
+    "image": "green_tea",
+    "description": "Healthy tea made from green tea leaves",
+    "price": 2.99
+  },
+  {
+    "name": "Hot Chocolate",
+    "image": "hot_chocolate",
+    "description": "Warm chocolate-flavored drink topped with whipped cream",
+    "price": 3.99
+  },
+  {
+    "name": "Water",
+    "image": "water",
+    "description": "Bottled water",
+    "price": 1.99
+  }
+]
